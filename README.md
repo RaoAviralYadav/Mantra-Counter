@@ -1,4 +1,55 @@
-# Welcome to your Expo app 👋
+# 📿 Mantra Counter
+
+A simple and elegant mobile app for tracking mantra repetitions.  
+Built with **React Native** and **Expo**, designed for a clean user experience and persistent tracking.
+
+---
+
+## 🎥 Demo Video
+[Watch Demo Here](YOUR_DEMO_LINK_HERE)  
+*(Replace with actual link once uploaded)*
+
+---
+
+## 🚀 Features
+
+- **Increment Counter** – Track each mantra repetition with a single tap.
+- **Set Target** – Define your mantra repetition goal (e.g., 108).
+- **Progress Notification** – Vibration alert when the target is reached.
+- **Persistent Storage** – Saves counter and target even after closing the app.
+- **Clean UI** – Warm color theme with intuitive button layout to avoid accidental resets.
+- **Tab Navigation** – Includes an "About" section explaining the app.
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework**: [React Native](https://reactnative.dev/)
+- **Development Environment**: [Expo](https://expo.dev/)
+- **Routing**: Expo Router (File-based navigation)
+- **Storage**: [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
+- **UI Components**: React Native core components & custom styling with `StyleSheet`
+
+---
+
+## 🧰 Tools Used
+
+- **Node.js** – JavaScript runtime for running and building the app.
+- **NPM** – Dependency management.
+- **Git & GitHub** – Version control and code hosting.
+- **Expo Go** – Live app preview on mobile devices.
+- **VS Code** – Code editor.
+- **Android/iOS Device** – Testing the app.
+
+---
+
+## 📱 Installation & Running
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/mantra-counter.git
+   cd mantra-counter
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
