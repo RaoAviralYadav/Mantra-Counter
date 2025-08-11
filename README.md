@@ -6,8 +6,7 @@ Built with **React Native** and **Expo**, designed for a clean user experience a
 ---
 
 ## 🎥 Demo Video
-[Watch Demo Here](YOUR_DEMO_LINK_HERE)  
-*(Replace with actual link once uploaded)*
+[Watch Demo Here](YOUR_DEMO_LINK_HERE) 
 
 ---
 
